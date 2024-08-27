@@ -60,3 +60,20 @@ console.log(Object.keys(tinderuser))// gives keys
 console.log(Object.values(tinderuser))// gives values
 console.log(Object.entries(tinderuser))// gives keys and values inside []
 console.log(tinderuser.hasOwnProperty('email'))
+
+ 
+
+const course = {
+     cname: "js",
+     price:  "999",
+     Cinstructot: "amulya"
+}
+
+const {Cinstructot} = course // extract the value
+
+//json = javascript object notation
+// {
+//     name:"amulya",
+//     cname : "JS",
+//     price : 0;
+// }
