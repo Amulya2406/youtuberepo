@@ -1,0 +1,9 @@
+JAVA SCRIPT EXECUTION CONTEXT : how doe sjavascript run the code
+{} - global exec CONTEXT
+1. global exec CONTEXT
+2. functinal exec CONTEXT
+3. eval E C 
+
+phases:
+1. memory creation phases
+2. execution phase

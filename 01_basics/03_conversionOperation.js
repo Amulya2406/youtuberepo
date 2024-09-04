@@ -13,7 +13,7 @@ console.log(typeof(scores))
 
 
 //"33" = 33
-//"3a"= NaN i.e not an number
+//"3a"= NaN i.e not a number
 
 let isLoggedIn =1
 let booleanISLogged = Boolean(isLoggedIn)
