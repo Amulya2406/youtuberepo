@@ -1,0 +1,1 @@
+//All array and string and also the functions get continues nby object 
